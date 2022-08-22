@@ -16,7 +16,7 @@ We use two different architectures for training the model in this package.
 2. U-Net (Convolutional Networks for Biomedical Image Segmentation).
 The UNet architecture is illustrated in the following:
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Image_Segmentation/blob/main/docs/Unet-architecture.png" alt="Figure1" width="480"/>
+    <img src="https://github.com/rezatorabi13/Image_Segmentation/blob/main/docs/Unet-architecture.png" alt="Figure1" width="600"/>
     <br>
     <em>The UNet architecture.</em>
 </p>
@@ -24,7 +24,7 @@ The UNet architecture is illustrated in the following:
 ## Training result
 An example of the model performance is shown based of **dice coefficient**.
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Image_Segmentation/blob/main/docs/CT_Dice_coeficient.jpg" alt="Figure2" width="280"/>
+    <img src="https://github.com/rezatorabi13/Image_Segmentation/blob/main/docs/CT_Dice_coeficient.jpg" alt="Figure2" width="400"/>
     <br>
     <em>Dice coefficient versus epoch.</em>
 </p>
@@ -32,7 +32,7 @@ An example of the model performance is shown based of **dice coefficient**.
 ## Prediction Results
 Some samples of prediction results comparing to the original masks:
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Image_Segmentation/blob/main/docs/CT_pred.jpg" alt="Figure3" width="480"/>
+    <img src="https://github.com/rezatorabi13/Image_Segmentation/blob/main/docs/CT_pred.jpg" alt="Figure3" width="600"/>
     <br>
     <em>prediction results.</em>
 </p>
