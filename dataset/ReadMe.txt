@@ -1,0 +1,1 @@
+Numpy arrays of x_train, X_val, y_train and y_val is stored in here
